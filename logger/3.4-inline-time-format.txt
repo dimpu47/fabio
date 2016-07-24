@@ -1,0 +1,3 @@
+PASS
+BenchmarkLog-8	 2000000	      1052 ns/op	       2 B/op	       2 allocs/op
+ok  	github.com/eBay/fabio/logger	3.059s
